@@ -86,8 +86,7 @@ dk\27.0.xxx`
 | Variable Name | Value (sesuaikan path Anda) |
 |---|---|
 | `ANDROID_HOME` | `C:\Users\<USERNAME>\AppData\Local\Android\Sdk` |
-| `ANDROID_NDK_HOME` | `C:\Users\<USERNAME>\AppData\Local\Android\Sdk
-dk\27.0.12077973` |
+| `ANDROID_NDK_HOME` | `C:\Users\<USERNAME>\AppData\Local\Android\Sdkdk\27.0.12077973` |
 
 4. Edit variable **Path** (klik Edit → New) → tambahkan **3 baris** ini:
    ```
